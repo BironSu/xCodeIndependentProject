@@ -8,5 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
+print("This is a new independent practice!!")
 
+//Hopefully I can get this right in one try.
